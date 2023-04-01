@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img src="/kenneth/images/MVC/mvc_work_flow.png">
+<img src="/kenneth/images/google_search_modern.png">
 
 
 이 주제에 대해 생각해보게 된 것은 다른 언어 진영의 아티클 및 유명 도서 제목에서 시작했다.<br>
