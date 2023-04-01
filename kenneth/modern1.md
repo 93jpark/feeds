@@ -66,7 +66,7 @@ Java는 JVM을 기반으로 한번 작성된 프로그램을 다른 OS환경에�
 
 `함수형 프로그래밍(FP)`은 객체지향과 마찬가지로 프로그래밍의 패러다임으로, 데이터조작과 결과를 도출하기 위해 사용되는 함수를 프로그램의 기본 단위로 여긴다. OOP에서는 객체가 중심이라면, FP에서는 함수 또는 메소드가 중심이다.<br>
 <br>
-> _The main idea begind functional programming is to write programs that are declarative rather than imperative. ~ declare what the result should be ~_
+> _The main idea begind functional programming is to write programs that are declarative rather than imperative. ~ declare what the result should be ~._
 
 FP에 대한 아티클을 번역하면, 함수형 프로그래밍은 프로그램을 명령형으로 작성하는 것보다 선언적으로 개발하는 것을 말한다. 직역하면 와닿지 않아 다음과 같이 번역해 보았다. 개발하는데에 있어 '어떻게 하는지' 보다 '무엇'에 집중한다. 어떤 것이 결과적으로 나오는지, 어떤 것이 필요로 하는지에 초점을 맞춘다는 것이다.
 <br><br>
